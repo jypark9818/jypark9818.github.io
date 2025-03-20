@@ -46,7 +46,7 @@ orcid_username: 0009-0001-4373-3963
 
 # About Section
 about_title: About Jaeyong Park
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a 3rd year integrated M.S/Ph.D course student at Korea University. 
   I'm conducting research focusing on cost-efficient deep neural network (DNN) acceleration using tiered memory systems, neural processing unit (NPU) architectures, and memory systems for future datacenter servers.
@@ -54,24 +54,26 @@ about_content: | # this will include new lines to allow paragraphs
 #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+      - layout: top-left
+        title: "TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs."
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+        #quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Jaeyong Park, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh
+          
+          ACM Transactions on Storage, 2025
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
