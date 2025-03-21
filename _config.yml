@@ -71,25 +71,36 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          **ACM Transactions on Storage**  
+          **ACM TOS**  
           TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs  
-          Jaeyong Park, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh
+          **Jaeyong Park**, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
+          Accepted at ACM Transactions on Storage.  
+            
+
+          **ICPP 2024**  
+          VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing  
+          Jaebeom Jeon, Junsu Kim, **Jaeyong Park**, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
+          The 53rd International Conference on Parallel Processing (ICPP 2024), Gotland, Sweden, 2024.  
+            
+          **IEEE Access**
+          SAVector: Vectored Systolic Arrays  
+          Sangun Choi, Seongjun Park, **Jaeyong Park**, Jongmin Kim, Gunjae Koo, Seokin Hong, Myung Kuk Yoon, and Yunho Oh  
+          IEEE Access, Vol. 12, pp. 44446-44461, 2024.  
 
   - title: Research Interests # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: DNN accelerator
+        #title: DNN accelerator
         #link: boringcompany.com
         # link_text: boringcompany.com
         #sub_title: Senior Network System Administrator
         #caption: November 2017 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        #description: | # this will include new lines to allow paragraphs
-        #    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-      - layout: left
-        title: Memory system for energy-efficient DNN acceleration
+        description: | # this will include new lines to allow paragraphs
+          **DNN accelerator**  
+          **Memory system for energy-efficient DNN acceleration**  
 
   #- title: Education # Title for the section
   #  layout: list # Type of content section (list/text)
