@@ -71,8 +71,8 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          ACM Transactions on Storage
-          TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs
+          **ACM Transactions on Storage**  
+          TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs  
           Jaeyong Park, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh
 
   - title: Research Interests # Title for the section
