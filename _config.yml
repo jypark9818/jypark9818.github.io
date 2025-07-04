@@ -71,6 +71,13 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+          **IEEE CAL**  
+          MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage  
+          Junsu Kim, Jaebeom Jeon, **Jaeyong Park**, Sangun Choi, Minseong Gil, Seokin Hong, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
+          IEEE Computer Architecture Letters (CAL), pp. 1-4, 2025.  
+
+
+
           **ACM TOS**  
           TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs  
           **Jaeyong Park**, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
