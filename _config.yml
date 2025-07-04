@@ -85,6 +85,21 @@ content:
           Jaebeom Jeon, Junsu Kim, **Jaeyong Park**, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
           *The 53rd International Conference on Parallel Processing (ICPP 2024)*, Gotland, Sweden, 2024.
 
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        title: Language
+        description: |
+          - **Korean**: Native
+          - **English**: Professional
+
+      - layout: left
+        title: Programming Languages
+        description: |
+          - **C, C++**
+          - **Verilog HDL**
+          - **Python**
 
   - title: Research Interests # Title for the section
     layout: list # Type of content section (list/text)
