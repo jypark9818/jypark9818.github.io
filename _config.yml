@@ -54,47 +54,36 @@ about_content: | # this will include new lines to allow paragraphs
 #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Publications
+    layout: list
     content:
-      - layout: top-middle
-        #title: ACM Transactions on Storge
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: Journal
+        description: |
           **IEEE CAL**  
-          MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage  
+          **MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage**  
           Junsu Kim, Jaebeom Jeon, **Jaeyong Park**, Sangun Choi, Minseong Gil, Seokin Hong, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
-          IEEE Computer Architecture Letters (CAL), pp. 1-4, 2025.  
+          *IEEE Computer Architecture Letters (CAL)*, pp. 1-4, 2025.
 
-
-
-          **ACM TOS**  
-          TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs  
+          **ACM TOS**
+          **TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs**  
           **Jaeyong Park**, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
-          Accepted at ACM Transactions on Storage.  
-            
+          *Accepted at ACM Transactions on Storage.*
 
-
-          **ICPP 2024**  
-          VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing  
-          Jaebeom Jeon, Junsu Kim, **Jaeyong Park**, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
-          The 53rd International Conference on Parallel Processing (ICPP 2024), Gotland, Sweden, 2024.  
-            
-            
           **IEEE Access**
-          SAVector: Vectored Systolic Arrays  
+          **SAVector: Vectored Systolic Arrays**  
           Sangun Choi, Seongjun Park, **Jaeyong Park**, Jongmin Kim, Gunjae Koo, Seokin Hong, Myung Kuk Yoon, and Yunho Oh  
-          IEEE Access, Vol. 12, pp. 44446-44461, 2024.  
+          *IEEE Access*, Vol. 12, pp. 44446-44461, 2024.
+
+
+      - layout: left
+        title: Conference
+        description: |
+          **ICPP 2024**
+          **VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing**  
+          Jaebeom Jeon, Junsu Kim, **Jaeyong Park**, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
+          *The 53rd International Conference on Parallel Processing (ICPP 2024)*, Gotland, Sweden, 2024.
+
 
   - title: Research Interests # Title for the section
     layout: list # Type of content section (list/text)
