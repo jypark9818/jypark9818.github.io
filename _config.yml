@@ -48,8 +48,8 @@ orcid_username: 0009-0001-4373-3963
 about_title: About Jaeyong Park
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a 3rd year integrated M.S/Ph.D course student at Korea University. 
-  I'm conducting research focusing on cost-efficient deep neural network (DNN) acceleration using tiered memory systems, neural processing unit (NPU) architectures, and memory systems for future datacenter servers.
+  I am a 4th year integrated M.S/Ph.D course student at Korea University. 
+  My research focuses on cost-efficient DNN acceleration using tiered memory systems, NPU and GPU architectures, and memory systems for future data center servers.
 
 #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
