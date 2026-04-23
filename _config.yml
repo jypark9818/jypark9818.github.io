@@ -60,8 +60,7 @@ content:
       - layout: left
         title: Journal
         description: |
-          **IEEE CAL**  
-          MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage  
+          **[IEEE CAL]** MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage  
           Junsu Kim, Jaebeom Jeon, **Jaeyong Park**, Sangun Choi, Minseong Gil, Seokin Hong, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
           *IEEE Computer Architecture Letters (CAL)*, pp. 1-4, 2025.  
             
