@@ -58,39 +58,48 @@ content:
     layout: list
     content:
       - layout: left
-        title: Journal
+        title: IEEE CAL
+        sub_title: Major journal in computer architecture
         description: |
-          **[IEEE CAL]** EONSim: An NPU Simulator for On-Chip Memory and Embedding Vector Operations  
+          **EONSim: An NPU Simulator for On-Chip Memory and Embedding Vector Operations**
           Sangun Choi, Jongkin Kim, **Jaeyong Park**, and Yunho Oh  
-          *IEEE Computer Architecture Letters (CAL)*, Vol. 25, pp. 73-76, 2026.  
+          *IEEE Computer Architecture Letters*, Vol. 25, pp. 73-76, 2026.
 
 
-
-          **[IEEE CAL]** MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage  
+      - layout: left
+        title: IEEE CAL
+        sub_title: Major journal in computer architecture
+        description: |
+          **MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage**
           Junsu Kim, Jaebeom Jeon, **Jaeyong Park**, Sangun Choi, Minseong Gil, Seokin Hong, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
-          *IEEE Computer Architecture Letters (CAL)*, pp. 1-4, 2025.  
+          *IEEE Computer Architecture Letters*, pp. 1-4, 2025.
             
               
-
-          **[ACM TOS]** TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs  
-          **Jaeyong Park**, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
-          *ACM Transactions on Storage (TOS)*, Article No. 32, pp. 1-26, 2025.  
-            
+      - layout: left
+        title: ACM TOS
+        sub_title: Major journal in computer architecture
+        description: |
+          **TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs**  
+          **Jaeyong Park**, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh
+          *ACM Transactions on Storage*, Article No. 32, pp. 1-26, 2025.              
               
 
-
-          **[IEEE Access]** SAVector: Vectored Systolic Arrays   
+      - layout: left
+        title: IEEE Access
+        sub_title: SCIE
+        description: |
+          **SAVector: Vectored Systolic Arrays**  
           Sangun Choi, Seongjun Park, **Jaeyong Park**, Jongmin Kim, Gunjae Koo, Seokin Hong, Myung Kuk Yoon, and Yunho Oh  
           *IEEE Access*, Vol. 12, pp. 44446-44461, 2024.
 
 
       - layout: left
-        title: Conference
+        title: ICPP 
+        sub_title: Major conference in computer architecture
         description: |
-          **ICPP 2024**  
-          VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing  
+          **VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing**  
           Jaebeom Jeon, Junsu Kim, **Jaeyong Park**, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
-          *The 53rd International Conference on Parallel Processing (ICPP 2024)*, Gotland, Sweden, 2024.
+          *The 53rd International Conference on Parallel Processing*, Gotland, Sweden, 2024.
 
   - title: Skills
     layout: list
