@@ -63,7 +63,7 @@ content:
         description: |
           **EONSim: An NPU Simulator for On-Chip Memory and Embedding Vector Operations**  
           Sangun Choi, Jongmin Kim, **Jaeyong Park**, and Yunho Oh  
-          *IEEE Computer Architecture Letters*, Vol. 25, pp. 73-76, 2026.
+          *IEEE Computer Architecture Letters*, Vol. 25, pp. 73-76, 2026.   
 
 
       - layout: left
@@ -72,7 +72,7 @@ content:
         description: |
           **MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage**  
           Junsu Kim, Jaebeom Jeon, **Jaeyong Park**, Sangun Choi, Minseong Gil, Seokin Hong, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
-          *IEEE Computer Architecture Letters*, pp. 1-4, 2025.
+          *IEEE Computer Architecture Letters*, pp. 1-4, 2025.   
             
               
       - layout: left
