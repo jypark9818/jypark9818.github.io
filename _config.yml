@@ -60,22 +60,26 @@ content:
       - layout: left
         title: Journal
         description: |
+          **[IEEE CAL]** EONSim: An NPU Simulator for On-Chip Memory and Embedding Vector Operations  
+          Sangun Choi, Jongkin Kim, **Jaeyong Park**, and Yunho Oh  
+          *IEEE Computer Architecture Letters (CAL)*, Vol. 25, pp. 73-76, 2026.  
+
+
+
           **[IEEE CAL]** MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage  
           Junsu Kim, Jaebeom Jeon, **Jaeyong Park**, Sangun Choi, Minseong Gil, Seokin Hong, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
           *IEEE Computer Architecture Letters (CAL)*, pp. 1-4, 2025.  
             
               
 
-          **ACM TOS**  
-          TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs  
+          **[ACM TOS]** TM-Training: An Energy-Efficient Tiered Memory System for Deep Learning Training in NPUs  
           **Jaeyong Park**, Sangun Choi, Jongmin Kim, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
-          *Accepted at ACM Transactions on Storage.*  
+          *ACM Transactions on Storage (TOS)*, Article No. 32, pp. 1-26, 2025.  
             
               
 
 
-          **IEEE Access**  
-          SAVector: Vectored Systolic Arrays   
+          **[IEEE Access]** SAVector: Vectored Systolic Arrays   
           Sangun Choi, Seongjun Park, **Jaeyong Park**, Jongmin Kim, Gunjae Koo, Seokin Hong, Myung Kuk Yoon, and Yunho Oh  
           *IEEE Access*, Vol. 12, pp. 44446-44461, 2024.
 
