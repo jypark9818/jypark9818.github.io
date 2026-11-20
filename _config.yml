@@ -48,8 +48,8 @@ orcid_username: 0009-0001-4373-3963
 about_title: About Jaeyong Park
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a 4th year integrated M.S/Ph.D course student at Korea University. 
-  My research focuses on cost-efficient DNN acceleration using tiered memory systems, NPU and GPU architectures, and memory systems for future data center servers.
+  I am currently in the fifth year of the integrated M.S./Ph.D. course at Korea University. 
+  My research focuses on LLM acceleration using flash-based tiered memory systems, NPU and GPU architectures for emerging AI workloads, and memory tiering in CXL-enabled AI datacenters.
 
 #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -129,8 +129,9 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          **DNN accelerator**  
-          **Memory system for energy-efficient DNN acceleration**  
+          **LLM acceleration with flash-based tiered memory systems**  
+          **NPU and GPU architectures**
+          **CXL-enabled AI datacenter **  
 
   #- title: Education # Title for the section
   #  layout: list # Type of content section (list/text)
