@@ -101,6 +101,23 @@ content:
           Jaebeom Jeon, Junsu Kim, **Jaeyong Park**, Gunjae Koo, Myung Kuk Yoon, and Yunho Oh  
           *The 53rd International Conference on Parallel Processing*, Gotland, Sweden, 2024.
 
+  - title: Honors & Academic Service
+    layout: list
+    content:
+      - layout: left
+        title: Best Paper Award (ISoCC 2025)
+        sub_title: 22nd International SoC Design Conference
+        caption: October 2025
+        description: |
+          **Anapass Award (Excellence Award)**  
+          "Cost-Efficient Flash-Based Tiered Memory System with NPUs for Training LLMs"
+
+      - layout: left
+        title: Artifact Evaluation Committee
+        sub_title: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2025)
+        caption: March – April 2025
+
+
   - title: Skills
     layout: list
     content:
@@ -130,7 +147,7 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           **LLM acceleration with flash-based tiered memory systems**  
-          **NPU and GPU architectures**
+          **NPU and GPU architectures**  
           **CXL-enabled AI datacenter **  
 
   #- title: Education # Title for the section
