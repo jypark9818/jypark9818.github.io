@@ -105,7 +105,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: ISoCC 2025
+        title: ISOCC 2025
         sub_title: Best Paper Award
         caption: October 2025
         description: |
