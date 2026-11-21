@@ -105,17 +105,21 @@ content:
     layout: list
     content:
       - layout: left
-        title: Best Paper Award (ISoCC 2025)
-        sub_title: 22nd International SoC Design Conference
+        title: ISoCC 2025
+        sub_title: Best Paper Award
         caption: October 2025
         description: |
           **Anapass Award (Excellence Award)**  
-          "Cost-Efficient Flash-Based Tiered Memory System with NPUs for Training LLMs"
+          "Cost-Efficient Flash-Based Tiered Memory System with NPUs for Training LLMs"  
+          22nd International SoC Design Conference  
 
       - layout: left
-        title: Artifact Evaluation Committee
-        sub_title: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2025)
+        title: ISPASS 2025
+        sub_title: Academic Service
         caption: March – April 2025
+        description: |
+          **Artifact Evaluation Committee Member**  
+          IEEE International Symposium on Performance Analysis of Systems and Software  
 
 
   - title: Skills
